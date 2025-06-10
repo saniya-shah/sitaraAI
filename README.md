@@ -5,7 +5,7 @@ This project implements a sophisticated, low-latency voice AI assistant designed
 <br>
 The main.py file contains the voice assistant code without metrics. <br>
 The api.py file contains the voice assistant code with metrics being saved into an excel file.<br>
-Kindly use you openai, cartesia, and deepgram api keys.<br> <br>
+Kindly use your openai, cartesia, and deepgram api keys.<br> <br>
 Features:
 <ul>
 <li>Real-time Voice Interaction: Engages in fluid, natural conversations.
