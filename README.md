@@ -2,6 +2,10 @@
 A minimalist voice assistant made with Livekit. You can call the assistant Sitara.<br>
 This project implements a sophisticated, low-latency voice AI assistant designed for natural, conversational interactions. Built on the LiveKit Agent framework, it integrates state-of-the-art speech-to-text (STT), large language model (LLM), and text-to-speech (TTS) technologies. A key feature is its robust performance metrics collection, providing detailed insights into interaction latency, EOU (End of Utterance) delay, and more, exported directly to an Excel file.
 <br>
+<br>
+The main.py file contains the voice assistant code without metric logging. <br>
+The api.py file contains the voice assistant code with metric logging and saving into an excel file.<br>
+Kindly use you openai, cartesia, and deepgram api keys.<br> <br>
 Features:
 <ul>
 <li>Real-time Voice Interaction: Engages in fluid, natural conversations.
